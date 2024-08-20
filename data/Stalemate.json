@@ -1,0 +1,21 @@
+{
+    "id": 42584142,
+    "name": "Stalemate",
+    "creators": ["Nox"],
+    "verifier": "Nox",
+    "verification": "https://youtu.be/DjY5bnwn96s",
+    "percentToQualify": 100,
+    "password": "No Copy",
+    "records": [
+        {
+            "user": "JustaCheemsDoge",
+            "link": "https://youtu.be/r2xB7QeWHYY",
+            "percent": 100
+        },
+        {
+            "user": "Viking",
+            "link": "https://www.youtube.com/watch?v=r9pncYkrQTI",
+            "percent": 100
+        }
+    ]
+}
